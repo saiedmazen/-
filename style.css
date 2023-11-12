@@ -1,0 +1,23 @@
+.imges{
+    margin-top: 100px;
+}
+.footer_country {
+    margin: 50px;
+
+}
+.footer_country a{
+    text-decoration: none;
+}
+.Sign_Up_form{
+    margin: 10px;
+}
+.Sign_Up_form button{
+    height: 39px;
+    border-radius: 5px;
+    color: #198754;
+    border: 1px solid #198754;
+}
+.Sign_Up_form button:hover{
+    color: white;
+    background-color: #198754;
+}
